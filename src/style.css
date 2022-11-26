@@ -1,0 +1,39 @@
+input{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 0;
+    padding-left: 35px;
+}
+#div1, #div2, #div3{
+    margin-top: 20px;
+}
+#div1, #div4, #div7{
+    margin-left: 20px; 
+}
+body{
+    background: #1f1f1f;
+}
+.header{
+    color: aqua;
+    margin-top: 15px;
+} 
+button{
+    color: #1f1f1f;
+    display: block;
+    width: 100%;
+}
+.restart{
+    margin-top: 10px;
+    border-radius: 5px;
+    color: white;
+    background: aqua;
+}
+.game_h1{
+    font-size: 100px;
+}
